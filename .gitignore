@@ -7,6 +7,9 @@ release.properties
 dependency-reduced-pom.xml
 buildNumber.properties
 .mvn/timing.properties
+bundle/node_modules
+bundle/target
+package/target
 
 # =========================
 # Operating System Files
